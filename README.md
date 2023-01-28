@@ -70,4 +70,7 @@ Exemple lien vers le répertoire GPIO `[GPIO](GPIO)` qui apparaîtra comme [GPIO
 Pour insérer une image, simplement la copier dans le presse-papier puis la coller dans le fichier .md. Elle sera stockée dans un répertoire particulier de votre Github.
 
 \
-Le langage pour formater les fichiers de type md est décrit [ici](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Le langage pour formater les fichiers de type md est décrit [ici](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+Et le fichier contenant le code de cette page est [ici](code_md.pdf)
+
