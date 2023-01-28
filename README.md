@@ -27,14 +27,17 @@ Il devra contenir des informations sur la description du RPi Pico, de MicroPytho
 
 Une photo du brochage du RPi Pico W est utile.
 
-Il devra contenir des liens vers plusieurs sous répertoires. chaque sous-répertoire contiendra un fichier descriptif README.md et les resspurces liées au sujet traités : code, datasheets, photos, explications diverses...
+Il comportera des liens vers plusieurs sous répertoires. chaque sous-répertoire contiendra un fichier descriptif README.md et les resspurces liées au sujet traités : code, datasheets, photos, explications diverses...
 
 Les répertoires sont les suivants :
 
 - **GPIO** : LED simple, bouton poussoir, interruption.
-- A/D_PWM : lecture du potentiomètre, PWM (LED, musique, servo).
-- LCD : documentation des fonctions de la librairie, affichage de la valeur du potentiomètre.
-- LED_neo : utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel.
-- Sensors : température et humidité, luminosité, PIR.
-- Network : Accès réseau avec le RPi Pico.
+- **A/D_PWM** : lecture du potentiomètre, PWM (LED, musique, servo).
+- **LCD** : documentation des fonctions de la librairie, affichage de la valeur du potentiomètre.
+- **LED_neo** : utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel.
+- **Sensors** : température et humidité, luminosité, PIR.
+- **Network** : Accès réseau avec le RPi Pico.
 
+## Ressources
+
+Pour créer un répertoire
