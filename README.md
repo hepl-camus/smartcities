@@ -35,8 +35,17 @@ Les répertoires sont les suivants :
 - **A/D_PWM** : lecture du potentiomètre, PWM (LED, musique, servo).
 - **LCD** : documentation des fonctions de la librairie, affichage de la valeur du potentiomètre.
 - **LED_neo** : utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel.
-- **Sensors** : température et humidité, luminosité, PIR.
-- **Network** : Accès réseau avec le RPi Pico.
+- **sensors** : température et humidité, luminosité, PIR.
+- **network** : Accès réseau avec le RPi Pico.
+
+Il apparaitront sous la form d'une liste de liens :
+
+- [GPIO](GPIO)
+- [A/D_PWM](AD/PWM]
+- [LCD](LCD)
+- [LED_neo](LED_neo)
+- [sensors](sensors)
+- [network](network)
 
 ## Ressources
 
