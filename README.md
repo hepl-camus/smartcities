@@ -10,7 +10,7 @@ Allez sur github.com puis :
 
 - Entrez votre email (utiliser votre email HEPL).
 - Suivre les instructions.
-- Choisir comme nom de github : hepl-votrenom.
+- Choisir comme nom de Github : hepl-votrenom.
 - Choisir le compte gratuit.
 
 Une fois le compte créé ajouter votre photo (type identité) comme avatar.
@@ -27,6 +27,7 @@ C'est le fichier explicatif racine. Il devra contenir des informations sur la de
 
 Une photo du brochage du RPi Pico W est utile.
 
+![image](https://user-images.githubusercontent.com/123806349/215263828-670ae9c1-3d4e-4bfa-a0dd-d2cfe9a20086.png)
 
 Il comportera des liens vers plusieurs sous-répertoires. Chaque sous-répertoire contiendra un fichier descriptif README.md et les ressources liées aux sujetx traités : code, datasheets, photos, explications diverses...
 
@@ -50,7 +51,7 @@ Ils apparaitront sous la forme d'une liste de liens :
 
 ## Ressources
 
-**Après chaque opération il faut cliquer sur Commit changes** pour enregistrer dans le github.
+**Après chaque opération il faut cliquer sur Commit changes** pour enregistrer dans le Github.
 
 Pour créer un répertoire :
 
@@ -64,6 +65,9 @@ Exemple pour créer le répertoire GPIO : smarticities/GPIO/README.md
 Pour créer un lien (vers un répertoire ou externe) : `[nom à afficher](lien)`
 
 Exemple lien vers le répertoire GPIO `[GPIO](GPIO)` qui apparaîtra comme [GPIO](GPIO)
+
+\
+Pour insérer une image, simplement la copier dans le presse-papier puis la coller dans le fichier .md. Elle sera stockée dans un répertoire particulier de votre Github.
 
 \
 Le langage pour formater les fichiers de type md est décrit [ici](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
