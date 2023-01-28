@@ -27,6 +27,7 @@ C'est le fichier explicatif racine. Il devra contenir des informations sur la de
 
 Une photo du brochage du RPi Pico W est utile.
 
+
 Il comportera des liens vers plusieurs sous-répertoires. Chaque sous-répertoire contiendra un fichier descriptif README.md et les ressources liées aux sujetx traités : code, datasheets, photos, explications diverses...
 
 Les répertoires sont les suivants :
@@ -38,7 +39,7 @@ Les répertoires sont les suivants :
 - **sensors** : température et humidité, luminosité, PIR.
 - **network** : Accès réseau avec le RPi Pico.
 
-Il apparaitront sous la form d'une liste de liens :
+Ils apparaitront sous la forme d'une liste de liens :
 
 - [GPIO](GPIO)
 - [AD-PWM](AD-PWM)
