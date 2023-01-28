@@ -49,10 +49,10 @@ Pour créer un répertoire :
 - Entrer nom du répertoire/README.md
 
 Exemple pour créer le répertoire GPIO : smarticities/GPIO/README.md
-\
 
+\
 Pour créer un lien (vers un répertoire ou externe) : `[nom à afficher](lien)`
 
 Exemple lien vers le répertoire GPIO `[GPIO](GPIO)` qui apparaîtra comme [GPIO](GPIO)
 
-Le langage pour formater les fichiers de type md est décrit [ici](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+Le langage pour formater les fichiers de type md est décrit [ici](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
