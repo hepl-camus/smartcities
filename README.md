@@ -40,4 +40,14 @@ Les répertoires sont les suivants :
 
 ## Ressources
 
-Pour créer un répertoire
+**Après chaque opération il faut cliquer sur Commit changes** pour enregistrer dans le github.
+
+Pour créer un répertoire :
+
+- Remonter au niveau de la racine du repository.
+- Cliquer sur ADD FILE -> Create New File.
+- Entrer nom du répertoire/README.md
+
+Exemple pour créer le répertoire GPIO : smarticities/GPIO/README.md
+
+
