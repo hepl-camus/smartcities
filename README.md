@@ -50,6 +50,6 @@ Pour créer un répertoire :
 
 Exemple pour créer le répertoire GPIO : smarticities/GPIO/README.md
 
-Pour créer un lien (vers un répertoire ou externe) : `\[nom à afficher\]\(lien\)`
+Pour créer un lien (vers un répertoire ou externe) : `[nom à afficher](lien)`
 
 Exemple lien vers le répertoire GPIO `\[GPIO\]\(GPIO\)` qui apparaîtra comme [GPIO](GPIO)
